@@ -1,4 +1,4 @@
-# CODSOFT-Task-3-Restaurant-menu
+# CODSOFT-Task-3-Restaurant-menu (Mobile app design)
 
 A restaurant menu UI/UX project is the process of designing a menu that is
 both visually appealing and easy to use. The goal of a good restaurant menu
